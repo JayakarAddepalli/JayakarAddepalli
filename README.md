@@ -53,26 +53,10 @@ I am enthusiastic about leveraging my skills to contribute effectively in Python
     
 ## Contact Me:
 
-![Static Badge](https://img.shields.io/badge/Linkedin-blue)_![Static Badge](https://img.shields.io/badge/Github-black)_
+
+<a href="https://www.linkedin.com/in/addepallijayakar270602/"> ![Static Badge](https://img.shields.io/badge/LinkedIn-blue)</a>
+&#8287;&#8287;&#8287;
+<a href="mailto:addepallijayakar@gmail.com"> ![Static Badge](https://img.shields.io/badge/Email-red)</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
 
 
-
-
-
-
-
-
-<!--
-**JayakarAddepalli/JayakarAddepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
