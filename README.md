@@ -1,6 +1,31 @@
 ## Hi there 👋
 
-I'm <span style='color:blue'>Jayakar Addepalli</span> from India.
+I am a dedicated professional seeking opportunities in the field of web development. My skills span across various technologies, and I have hands-on experience in building projects using HTML, CSS, JavaScript, React, Python, Django, and SQL.
+
+Skills
+    Languages: HTML, CSS, JavaScript, Python
+    Frameworks/Libraries: React, Django
+    Databases: SQL
+
+Projects
+    Here are some projects I've worked on:
+    
+    Project 1 Name
+    
+    Description: Brief description of the project.
+    Repository: Project 1 Repository
+    Project 2 Name
+    
+    Description: Brief description of the project.
+    Repository: Project 2 Repository
+    Project 3 Name
+    
+    Description: Brief description of the project.
+    Repository: Project 3 Repository
+    
+Contact Me
+    LinkedIn: Jayakar Addepalli
+    Email: your.email@example.com
 
 ![JayakarAddepalli's Stats](https://github-readme-stats.vercel.app/api?username=JayakarAddepalli&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![JayakarAddepalli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayakarAddepalli&theme=vue-dark&hide_border=true)
