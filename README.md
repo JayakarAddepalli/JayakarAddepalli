@@ -1,6 +1,6 @@
-# Hi there I'm <span style="color: green">*Jayakar Addepalli*</span>👋
+# Hi there I'm <span style="color: green;">Jayakar Addepalli</span>👋
 
-"I am a dedicated professional seeking opportunities in the field of Python full stack development. My skills span across various technologies, and I have hands-on experience in building projects using HTML, CSS, JavaScript, React, Python, Django, and SQL."<br><br>
+"*I am a dedicated professional seeking opportunities in the field of Python full stack development. My skills span across various technologies, and I have hands-on experience in building projects using HTML, CSS, JavaScript, React, Python, Django, and SQL.*"<br><br>
 
 ## Github Stats:
 
