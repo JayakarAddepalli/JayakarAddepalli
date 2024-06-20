@@ -1,6 +1,6 @@
 # Hi there I'm Jayakar Addepalli👋
 
-I am a dedicated professional seeking opportunities in the field of Python full stack development. My skills span across various technologies, and I have hands-on experience in building projects using HTML, CSS, JavaScript, React, Python, Django, and SQL.<br><br>
+"I am a dedicated professional seeking opportunities in the field of Python full stack development. My skills span across various technologies, and I have hands-on experience in building projects using HTML, CSS, JavaScript, React, Python, Django, and SQL."<br><br>
 
 ## Github Stats:
 
@@ -30,7 +30,7 @@ I am a dedicated professional seeking opportunities in the field of Python full 
         - It is a fully loaded, secure, user friendly website.
         - It is responsive in any devices.
       
-    - **Repository**: !\[Link\](https://github.com/JayakarAddepalli/EMOBILESCART)  <br><br>
+    - **Repository**: https://github.com/JayakarAddepalli/EMOBILESCART <br><br>
 
 - ### **Tic Tac Toe**
     
@@ -39,7 +39,7 @@ I am a dedicated professional seeking opportunities in the field of Python full 
         - It is a fully loaded website.
         - It is responsive in any devices.
           
-    - **Repository**: Project 1 Repository<br><br>
+    - **Repository**: https://github.com/JayakarAddepalli/TicTacToe <br><br>
 
 - ### **Multi Step Form**
     
@@ -47,9 +47,9 @@ I am a dedicated professional seeking opportunities in the field of Python full 
         - Built by ![Static Badge](https://img.shields.io/badge/HTML-%23ff6500) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/Javascript-%23ffff00)
         - It is responsive in any devices.
           
-    - **Repository**: Project 1 Repository<br><br>
+    - **Repository**: https://github.com/JayakarAddepalli/Multi-Step-Form <br><br>
 
-#### I am enthusiastic about leveraging my skills to contribute effectively in Python full stack development projects. Please feel free to reach out if you have any job opportunities or if you'd like to connect!<br><br>
+I am enthusiastic about leveraging my skills to contribute effectively in Python full stack development projects. Please feel free to reach out if you have any job opportunities or if you'd like to connect!<br><br>
     
 ## Contact Me:
 
