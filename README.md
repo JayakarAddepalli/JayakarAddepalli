@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jayakar Addepalli from India.
+I'm <span style='color💙'>Jayakar Addepalli</span> from India.
 
 ![JayakarAddepalli's Stats](https://github-readme-stats.vercel.app/api?username=JayakarAddepalli&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![JayakarAddepalli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayakarAddepalli&theme=vue-dark&hide_border=true)
