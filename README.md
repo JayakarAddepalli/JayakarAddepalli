@@ -42,7 +42,7 @@
       
     - **Repository**: https://github.com/JayakarAddepalli/EMOBILESCART <br><br>
 
-    - ![Screenshot 2024-06-04 130825](https://github.com/user-attachments/assets/5ae92405-48c8-4c5b-834d-efd65c28c9eb)
+    - ![image](https://github.com/user-attachments/assets/8e9e3c2c-de94-4972-adb8-edb29984bb03)
     <br><br>
 
 
