@@ -66,7 +66,7 @@
           
     - **Repository**: https://github.com/JayakarAddepalli/Multi-Step-Form <br><br>
 
-    -![Screenshot 2024-06-26 120705](https://github.com/user-attachments/assets/58057a72-ba26-4bb6-86c0-f29783a9de7e)
+    - ![Screenshot 2024-06-26 120705](https://github.com/user-attachments/assets/58057a72-ba26-4bb6-86c0-f29783a9de7e)
     <br><br>
 
 
