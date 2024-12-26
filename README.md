@@ -20,11 +20,11 @@
 
 | **Category**   | **Technologies**                 |
 |----------------|----------------------------------|
-| **Languages**  | HTML, CSS, JavaScript, Python   |
-| **Frameworks** | React, Django                   |
-| **Databases**  | SQL                             |
-| **Tools**      | Git, Visual Studio Code         |
-| **Other**      | REST APIs, Responsive Design    |
+| **Languages**  | HTML, CSS, JavaScript, Python    |
+| **Frameworks** | React, Angular, Django           |
+| **Databases**  | SQL                              |
+| **Tools**      | Git, Visual Studio Code          |
+| **Other**      | REST APIs, Responsive Design     |
 
 <br><br>
 
