@@ -42,7 +42,6 @@
       
     - **Repository**: https://github.com/JayakarAddepalli/EMOBILESCART <br><br>
 
-    - ![Screenshot 2024-06-04 130727](https://github.com/user-attachments/assets/65f61537-9939-45a4-bf4c-f2097fa782e8)
     - ![Screenshot 2024-06-04 130825](https://github.com/user-attachments/assets/5ae92405-48c8-4c5b-834d-efd65c28c9eb)
     <br><br>
 
@@ -56,6 +55,9 @@
           
     - **Repository**: https://github.com/JayakarAddepalli/TicTacToe <br><br>
 
+    - ![Screenshot 2024-08-28 105851](https://github.com/user-attachments/assets/2168a081-fc80-4dab-9565-8e588632d30c)
+    <br><br>
+
 - ### **Multi Step Form**
     
     - **Description**:
@@ -63,6 +65,10 @@
         - It is responsive in any devices.
           
     - **Repository**: https://github.com/JayakarAddepalli/Multi-Step-Form <br><br>
+
+    -![Screenshot 2024-06-26 120705](https://github.com/user-attachments/assets/58057a72-ba26-4bb6-86c0-f29783a9de7e)
+    <br><br>
+
 
 I am enthusiastic about leveraging my skills to contribute effectively in Python full stack development projects. Please feel free to reach out if you have any job opportunities or if you'd like to connect!<br><br>
     
