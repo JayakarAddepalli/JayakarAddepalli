@@ -42,6 +42,9 @@
       
     - **Repository**: https://github.com/JayakarAddepalli/EMOBILESCART <br><br>
 
+    - ![Screenshot 2024-06-04 130727](https://github.com/user-attachments/assets/788ef6a0-268c-4e2c-804e-b0bc2ef05ec9) <br><br>
+
+
 - ### **Tic Tac Toe**
     
     - **Description**:
