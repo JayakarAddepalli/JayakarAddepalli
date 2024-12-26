@@ -1,6 +1,6 @@
 # Hi there I'm <span style="color: green;">Jayakar Addepalli</span>👋
 
-"*I am a dedicated professional seeking opportunities in the field of Python full stack development. My skills span across various technologies, and I have hands-on experience in building projects using HTML, CSS, JavaScript, React, Python, Django, and SQL.*"<br><br>
+"*I am a results-driven Python full stack developer with expertise in creating dynamic and responsive web applications. With a strong foundation in HTML, CSS, JavaScript, React, Python, Django, and SQL, I bring both creativity and efficiency to my projects.*"<br><br>
 
 ## Github Stats:
 
@@ -17,6 +17,16 @@
  ![Static Badge](https://img.shields.io/badge/Django-darkgreen)
 
 - **Databases**: ![Static Badge](https://img.shields.io/badge/SQL-darkblue)<br><br>
+
+| **Category**   | **Technologies**                 |
+|----------------|----------------------------------|
+| **Languages**  | HTML, CSS, JavaScript, Python   |
+| **Frameworks** | React, Django                   |
+| **Databases**  | SQL                             |
+| **Tools**      | Git, Visual Studio Code         |
+| **Other**      | REST APIs, Responsive Design    |
+
+<br><br>
 
 
 ## Projects:
