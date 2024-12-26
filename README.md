@@ -11,12 +11,12 @@
 
 ## Skills:
 
-- **Languages**:  ![Static Badge](https://img.shields.io/badge/HTML-%23ff6500) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/Javascript-%23ffff00) ![Static Badge](https://img.shields.io/badge/Python-skyblue_yellow)
+<!-- - **Languages**:  ![Static Badge](https://img.shields.io/badge/HTML-%23ff6500) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/Javascript-%23ffff00) ![Static Badge](https://img.shields.io/badge/Python-skyblue_yellow)
 
 - **Frameworks/Libraries**: ![Static Badge](https://img.shields.io/badge/React-%2303dfee)
  ![Static Badge](https://img.shields.io/badge/Django-darkgreen)
 
-- **Databases**: ![Static Badge](https://img.shields.io/badge/SQL-darkblue)<br><br>
+- **Databases**: ![Static Badge](https://img.shields.io/badge/SQL-darkblue)<br><br> -->
 
 | **Category**   | **Technologies**                 |
 |----------------|----------------------------------|
